@@ -11,8 +11,8 @@
   },
   "favicon_url": "",
   "social": [
-    { "type": "instagram", "handle": "dexkit_crew" },
-    { "type": "twitter", "handle": "dexkit" }
+    { "type": "instagram", "handle": "of1nft" },
+    { "type": "twitter", "handle": "nftof1" }
   ],
   "transak": {
     "enabled": true
@@ -20,7 +20,7 @@
   "fees": [
     {
       "amount_percentage": 0.05,
-      "recipient": "0x5bD68B4d6f90Bcc9F3a9456791c0Db5A43df676d"
+      "recipient": "0xC5633f7E465eBB1A9F855F93047134ef1ca61E49"
     }
   ],
   "format": {
@@ -209,11 +209,11 @@
         {
           "variant": "dark",
           "type": "call-to-action",
-          "title": "Collections",
-          "subtitle": "lorem ipsum indolor",
+          "title": "NFTask Platform",
+          "subtitle": "Need paying web3 work?",
           "button": {
-            "title": "See all",
-            "url": "/collections"
+            "title": "Join for free!",
+            "url": "https://nftask.me"
           },
           "items": [
             {
