@@ -351,7 +351,7 @@ function Navbar() {
                     <Avatar
                       src={getChainLogoImage(chainId)}
                       sx={(theme) => ({
-                        width: 'auto',
+                        width: '40',
                         height: theme.spacing(2),
                       })}
                       alt={getChainName(chainId) || ''}
