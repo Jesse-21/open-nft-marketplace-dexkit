@@ -49,7 +49,7 @@ export function Footer() {
         >
           <Grid item>
             <Link
-              href="https://dexkit.com/contact-us/"
+              href="mailto:thirdyxyz@gmail.com"
               color="inherit"
               target="_blank"
             >
@@ -70,8 +70,8 @@ export function Footer() {
                 id="is.powered.by"
                 description="is powered by"
               />{' '}
-              <Link variant="inherit" href="https://0x.org/" color="inherit">
-                <strong>0x</strong>
+              <Link variant="inherit" href="https://www.thirdy.xyz" color="inherit">
+                <strong>Web3</strong>
               </Link>{' '}
               <FormattedMessage
                 id="and.made.with.love.by"
@@ -80,11 +80,11 @@ export function Footer() {
               />{' '}
               <Link
                 variant="inherit"
-                href="https://www.dexkit.com"
+                href="https://www.thirdy.xyz"
                 target="_blank"
                 color="inherit"
               >
-                <strong>DexKit</strong>
+                <strong>Thirdy</strong>
               </Link>
             </Typography>
           </Grid>
