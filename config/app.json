@@ -1,9 +1,9 @@
 {
-  "name": "Kittygotchi",
+  "name": "Thirdy",
   "locale": "en-US",
   "currency": "usd",
-  "theme": "kittygotchi",
-  "url": "https://www.kittygotchi.com",
+  "theme": "default-theme",
+  "url": "https://market.thirdy.xyz",
   "logo": {
     "url": "/assets/images/market-logo.svg",
     "height": "",
@@ -11,8 +11,8 @@
   },
   "favicon_url": "",
   "social": [
-    { "type": "instagram", "handle": "dexkit_crew" },
-    { "type": "twitter", "handle": "dexkit" }
+    { "type": "instagram", "handle": "thirdyxyz" },
+    { "type": "twitter", "handle": "thirdyxyzz" }
   ],
   "transak": {
     "enabled": true
@@ -20,7 +20,7 @@
   "fees": [
     {
       "amount_percentage": 1,
-      "recipient": "0x5bD68B4d6f90Bcc9F3a9456791c0Db5A43df676d"
+      "recipient": "0xC5633f7E465eBB1A9F855F93047134ef1ca61E49"
     }
   ],
   "format": {
@@ -30,12 +30,12 @@
   "collections": [
     {
       "image": "/assets/kittygotchi/banner_eth.svg",
-      "name": "Kittygotchi",
+      "name": "Thirdy Spotlight",
       "backgroundImage": "/assets/kittygotchi/banner_eth.svg",
-      "chainId": 1,
-      "contractAddress": "0xe76591AD590765e9Ab9EdE82BEa274aFcF5Ce703",
+      "chainId": 137,
+      "contractAddress": "0x23A4Aa802ec83E8475ce28c85C8034C1Ac916934",
       "description": "",
-      "uri": "kittygotchieth"
+      "uri": "thirdyspotlight"
     },
     {
       "image": "/assets/kittygotchi/banner_bsc.svg",
